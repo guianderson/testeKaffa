@@ -24,7 +24,7 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 ## Diagrama de entidade relacionamento 
 
-Para visualizar o diagrama de entidade relacionamento, basta abrir o arquivo: "diagramaEntRelacionamento.png", segue o diagrama: 
+Para visualizar o diagrama de entidade relacionamento, basta abrir o arquivo: "diagramaEntRelacionamento.png" localizado dentro da pasta "diagrama", segue o diagrama: 
 ![ent_relacionamento](https://user-images.githubusercontent.com/47038612/102022587-a2125100-3d66-11eb-80f5-a2388f3af5ab.png)
 
 ## Respostas
