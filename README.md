@@ -7,9 +7,9 @@ Liguagem escolhida para realizar o teste: **Python**
 # Primeiros passos
 
 O único passo necessário para rodar o projeto é, instalar o **requeriments.txt**
-<p> > **Crie uma virtual env na versão do python 3.8:** python3.8 -m venv myenv</p>
-<p> > **Ative a virtual env:** source myenv/bin/activate</p>
-<p> > **Após ativar a virtual env, instalar o requirements.txt**: pip install -r requirements.txt</p>
+<p> >**Crie uma virtual env na versão do python 3.8:** python3.8 -m venv myenv</p>
+<p> >**Ative a virtual env:** source myenv/bin/activate</p>
+<p> >**Após ativar a virtual env, instalar o requirements.txt**: pip install -r requirements.txt</p>
 
 
 ## Todos os exercícios estão no mesmo arquivo
