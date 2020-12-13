@@ -18,10 +18,6 @@ O único passo necessário para rodar o projeto é, instalar o **requeriments.tx
 
 > **Para visualizar as respostas, basta executar o arquivo main.py**: python main.py
 
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
 ## Diagrama de entidade relacionamento 
 
 Para visualizar o diagrama de entidade relacionamento, basta abrir o arquivo: "diagramaEntRelacionamento.png" localizado dentro da pasta "diagrama", segue o diagrama: 
